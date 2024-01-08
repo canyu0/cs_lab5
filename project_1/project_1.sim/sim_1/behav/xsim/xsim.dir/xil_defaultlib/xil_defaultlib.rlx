@@ -1,0 +1,22 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/27486/Desktop/lab5/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/ALU2.v,1703150738,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/ALUControl.v,,ALU2,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/ALUControl.v,1703145508,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/Add1.v,,ALUControl,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/Add1.v,1703145433,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/ControlUnit.v,,Add1,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/ControlUnit.v,1702351732,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/DataMemory.v,,ControlUnit,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/DataMemory.v,1702351732,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/InstructionMemory.v,,DataMemory,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/InstructionMemory.v,1703145213,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/Multiplexer.v,,InstructionMemory,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/Multiplexer.v,1702351732,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/Multiplexer4.v,,Multiplexer,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/Multiplexer4.v,1702351732,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/ProgramCounter.v,,Multiplexer4,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/ProgramCounter.v,1702351732,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/RegEX.v,,ProgramCounter,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/RegEX.v,1702351732,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/RegFI.v,,RegEX,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/RegFI.v,1702351732,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/RegID.v,,RegFI,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/RegID.v,1702351732,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/RegMA.v,,RegID,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/RegMA.v,1702351732,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/RegisterFile.v,,RegMA,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/RegisterFile.v,1702351732,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/ShiftUnit.v,,RegisterFile,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/ShiftUnit.v,1702351732,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/SignalExtension.v,,ShiftUnit,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/SignalExtension.v,1702351732,verilog,,C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/top.v,,SignalExtension,,,,,,,,
+C:/Users/27486/Desktop/lab5/project_1/project_1.srcs/sources_1/new/top.v,1702351732,verilog,,,,top,,,,,,,,
